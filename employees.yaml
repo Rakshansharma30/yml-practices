@@ -1,0 +1,39 @@
+employees:
+  - name: John Doe
+    age: 30
+    position: Senior Developer
+    skills:
+      - Python
+      - Docker
+      - Kubernetes
+    projects:
+      - name: Project Alpha
+        role: Lead Developer
+      - name: Project Beta
+        role: DevOps Engineer
+  
+  - name: Jane Smith
+    age: 28
+    position: UX Designer
+    skills:
+      - UI/UX
+      - Figma
+      - Adobe XD
+    projects:
+      - name: Project Gamma
+        role: Design Lead
+      - name: Project Delta
+        role: UI Specialist
+
+  - name: Alex Johnson
+    age: 35
+    position: Product Manager
+    skills:
+      - Agile
+      - JIRA
+      - Product Strategy
+    projects:
+      - name: Project Alpha
+        role: Product Owner
+      - name: Project Echo
+        role: Scrum Master
